@@ -12,8 +12,8 @@ This demo project creates a simple application that generates three audio files 
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/
-cd mood-music-generator
+git clone https://github.com/mexxik/audiocraft-demo
+cd audiocraft-demo
 ```
 
 ### Step 2: Build the Docker Image
